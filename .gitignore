@@ -1,0 +1,34 @@
+# Secrets
+.env
+
+# Local-only documents
+data/JOSHVA MINI PROJECT REPORT last 2.pdf
+data/Meridian_Procurement_Policy_Handbook_v4.2.pdf
+
+# Vector store (can grow large)
+chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+venv*/
+.venv/
+env/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+.cache/
